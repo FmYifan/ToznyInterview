@@ -1,5 +1,6 @@
 # ToznyInterview
-Inventory Manager 
+Inventory Manager
+
 The task of this project is to write functions in Java which can operate on the example JSON value (data.json which is in the resources) to answer the following questions 
   1. What are the 5 most expensive items from each category? 
   2. Which cds have a total running time longer than 60 minutes? 
